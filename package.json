@@ -1,0 +1,18 @@
+{
+  "name": "path-skill-system",
+  "version": "0.0.1",
+  "description": "A minimalist game systel based on career path and skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "game",
+    "system"
+  ],
+  "author": "Josselin TD",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^13.1.3"
+  }
+}
